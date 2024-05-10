@@ -1,0 +1,6 @@
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\x64\Release\Project55.vcxproj.AssemblyReference.cache
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\x64\Release\Project55.MyForm.resources
+D:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\Xipper\x64\Release\Project55.vcxproj.GenerateResource.cache
+C:\Users\anuj7\Desktop\Projects\.NET\Xipper_HuffmanvsShannon\Xipper\x64\Release\Project55.vcxproj.AssemblyReference.cache
+C:\Users\anuj7\Desktop\Projects\.NET\Xipper_HuffmanvsShannon\Xipper\x64\Release\Project55.MyForm.resources
+C:\Users\anuj7\Desktop\Projects\.NET\Xipper_HuffmanvsShannon\Xipper\x64\Release\Project55.vcxproj.GenerateResource.cache
