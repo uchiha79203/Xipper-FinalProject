@@ -1,0 +1,5 @@
+C:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\x64\Release\Project55.vcxproj.AssemblyReference.cache
+C:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\x64\Release\Project55.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\x64\Release\Project55.MyForm.resources
+C:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\x64\Release\Project55.vcxproj.GenerateResource.cache
+C:\Users\anuj7\OneDrive\Desktop\Projects\Xipper\Source Files\Xipper\x64\Release\Xipper.exe
